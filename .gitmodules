@@ -1,0 +1,3 @@
+[submodule "Tutorial"]
+	path = Tutorial
+	url = https://github.com/stever178/Tutorial/tree/class
